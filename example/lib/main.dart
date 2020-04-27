@@ -50,6 +50,7 @@ class _MyAppState extends State<MyApp> {
       await Escposprinter.printText("Testing ESC POS printer...");
     } on PlatformException {
       //response = 'Failed to get platform version.';
+      //fucekkk fucekkkkkk
     }
   }
 
